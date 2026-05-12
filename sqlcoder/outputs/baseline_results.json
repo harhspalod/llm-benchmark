@@ -1,0 +1,12 @@
+{
+  "n": 200,
+  "exact_match": 0.085,
+  "token_f1": 0.5825,
+  "by_type": {
+    "SELECT": 0.0556,
+    "INSERT": 0.125,
+    "UPDATE": 0.5714,
+    "DELETE": 0.5,
+    "UNKNOWN": 0.3333
+  }
+}
