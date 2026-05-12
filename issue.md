@@ -111,3 +111,37 @@ It works better with:
 Claude Code is tightly integrated with Anthropic’s ecosystem.
 
 That’s why your direct Ollama + curl test succeeded instantly, while Claude Code struggled.
+
+
+
+zenalyst@zenalysts-MacBook-Pro codellama % opencode models
+opencode/big-pickle
+opencode/deepseek-v4-flash-free
+opencode/minimax-m2.5-free
+opencode/nemotron-3-super-free
+opencode/ring-2.6-1t-free
+anthropic/claude-3-5-haiku-20241022
+anthropic/claude-3-5-haiku-latest
+anthropic/claude-3-5-sonnet-20240620
+anthropic/claude-3-5-sonnet-20241022
+anthropic/claude-3-7-sonnet-20250219
+anthropic/claude-3-haiku-20240307
+anthropic/claude-3-opus-20240229
+anthropic/claude-3-sonnet-20240229
+anthropic/claude-haiku-4-5
+anthropic/claude-haiku-4-5-20251001
+anthropic/claude-opus-4-0
+anthropic/claude-opus-4-1
+anthropic/claude-opus-4-1-20250805
+anthropic/claude-opus-4-20250514
+anthropic/claude-opus-4-5
+anthropic/claude-opus-4-5-20251101
+anthropic/claude-opus-4-6
+anthropic/claude-opus-4-6-fast
+anthropic/claude-opus-4-7
+anthropic/claude-sonnet-4-0
+anthropic/claude-sonnet-4-20250514
+anthropic/claude-sonnet-4-5
+anthropic/claude-sonnet-4-5-20250929
+anthropic/claude-sonnet-4-6
+zenalyst@zenalysts-MacBook-Pro codellama % 
